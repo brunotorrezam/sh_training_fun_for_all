@@ -2,3 +2,4 @@
 this is a super coool training project 
 INDEED !!!!
 There are somemodule in here taken straight from odoo community, just as examples, please don't sue me
+Try 2
